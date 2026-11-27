@@ -1,1 +1,1 @@
-instances-mario-bubble-rational.trycloudflare.com
+device-versions-cologne-joke.trycloudflare.com
